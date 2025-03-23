@@ -14,6 +14,11 @@ Currently working on a startup 🚀
 
 ---
 
+## Projects
+Algorithm viewer: https://algogeek.vercel.app/
+
+---
+
 ## Interests
 💡 **Math**, **Cryptography**, and **Competitive Programming**
 
