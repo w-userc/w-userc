@@ -20,7 +20,7 @@ Algorithm viewer: https://algogeek.vercel.app/
 ---
 
 ## Interests
-💡 **Math**, **Cryptography**, and **Competitive Programming**
+💡 **Math**, **Cryptography**, and **AI**
 
 ---
 
